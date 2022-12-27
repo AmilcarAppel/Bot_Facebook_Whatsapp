@@ -1,11 +1,12 @@
-# The Script below is designed to verify new messages from Facebook and notify someone through  the whatsapp
-# Import the libraries 
-# Open Facebook messenger
-# Check for new messages
-# Verify how many new messages 
-# Open the web Whatsapp and select who will be notified about the new messages from Facebook
-# Paste the messages to the Whatsapp receiver
-# Reloop the script while the condition is true
+# The Script below is designed to verify new messages from Facebook and notify someone through the whatsapp
+# Here are the steps to verify new messages from Facebook and notify someone through  the whatsapp 
+# 1 - Import the libraries 
+# 2 - Open Facebook messenger
+# 3 - Check for new messages
+# 4 - Verify how many new messages 
+# 5 - Open the web Whatsapp and select who will be notified about the new messages from Facebook
+# 6 - Paste the messages to the Whatsapp receiver
+# 7 - Reloop the script while the condition is true
 
 # Import the libraries: 
 from selenium import webdriver
