@@ -1,0 +1,2 @@
+# Here is the pathway required to open the Whatsapp web page and bypass the mobile authentication
+CHROME_DATA_PATH = "user-data-dir=C:\\Users\\Amilcar\\AppData\\Local\\Google\\Chrome\\User Data\\write here the name of the new folder" #<----write here the name of the new folder
